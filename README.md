@@ -1,10 +1,10 @@
 # habit-tracker-ios
 Habit tracker iOS mobile app built for my school course EBC-VI1 - Application Development for iOS course.
 # What I Learned
-* CoreData
+* CoreData: Creation of multiple entities and the relationships between them, dynamic queries to CoreData
 * Combine framework
 * Designed in **MVVM** architecture
-* UserNotifications framework
+* UserNotifications framework: notification trigger depending on day of week and time 
 # Main Features
 <p align="center"><img src="habits_project_4sem/Assets.xcassets/finish_ios_gif.dataset/finish_ios_gif.gif" width="320"/></p>
 ## Screenshots
