@@ -6,7 +6,7 @@ Habit tracker iOS mobile app built for my school course EBC-VI1 - Application De
 * Designed in **MVVM** architecture
 * UserNotifications framework
 # Main Features
-<p align="center"><img src="Assets.xcassets/finish_ios_gif.dataset/finish_ios_gif.gif" width="320"/></p>
+<p align="center"><img src="habits_project_4sem/Assets.xcassets/finish_ios_gif.dataset/finish_ios_gif.gif" width="320"/></p>
 ## Screenshots
 <p align="center">
 <img src="habits_project_4sem/Assets.xcassets/screen2.imageset/screen2.png" width="220">/><br>
