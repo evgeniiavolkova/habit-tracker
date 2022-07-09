@@ -10,10 +10,10 @@ Habit tracker iOS mobile app built for my school course EBC-VI1 - Application De
 ## Screenshots
 <p align="center">
 <img src="habits_project_4sem/Assets.xcassets/screen2.imageset/screen2.png" width="220">
-  <img src="habits_project_4sem/Assets.xcassets/screen1.imageset/screen1.png" width="220">
-  <img src="habits_project_4sem/Assets.xcassets/screen3.imageset/screen3.png" width="220">
-  <br>
   <img src="habits_project_4sem/Assets.xcassets/screen4.imageset/screen4.png" width="220">
+  <img src="habits_project_4sem/Assets.xcassets/screen1.imageset/screen1.png" width="220">
+  <br>
+  <img src="habits_project_4sem/Assets.xcassets/screen3.imageset/screen3.png" width="220">
   <img src="habits_project_4sem/Assets.xcassets/screen5.imageset/screen5.png" width="220">
   <br>
 </p>
