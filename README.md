@@ -7,7 +7,7 @@ Habit tracker iOS mobile app built for my school course EBC-VI1 - Application De
 * UserNotifications framework: notification trigger depending on day of week and time 
 # Main Features
 <p align="center"><img src="habits_project_4sem/Assets.xcassets/finish_ios_gif.dataset/finish_ios_gif.gif" width="320"/></p>
-## Screenshots
+# Screenshots
 <p align="center">
 <img src="habits_project_4sem/Assets.xcassets/screen2.imageset/screen2.png" width="220">
   <img src="habits_project_4sem/Assets.xcassets/screen4.imageset/screen4.png" width="220">
