@@ -5,6 +5,7 @@ Habit tracker iOS mobile app built for my school course EBC-VI1 - Application De
 * Combine framework
 * Designed in **MVVM** architecture
 * UserNotifications framework: notification trigger depending on day of week and time 
+* The map operation is managed and regulated by **LocationManager**
 # Main Features
 <p align="center"><img src="habits_project_4sem/Assets.xcassets/finish_ios_gif.dataset/finish_ios_gif.gif" width="320"/></p>
 
